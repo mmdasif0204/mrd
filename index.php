@@ -5,4 +5,4 @@
  * Simple file to test.
  */
 
-echo "Hello Github";
+echo "Hello new feature in subbranch Github";
