@@ -1,2 +1,8 @@
-This is the my new commnet
+<?php
 
+/**
+ * As sadasd.
+ * @file
+ */
+
+echo "sdfsdfsdf";
